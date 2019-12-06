@@ -1,0 +1,34 @@
+﻿1. b
+2. c
+3. a
+4. c
+5. a
+6. c
+7. a
+8. c
+9. b
+10. c
+11. b
+12. 
+<html>
+<head>
+<title>Correct codes</title>
+</head>
+<body>
+<input type="text">
+<select>
+	<option value="ali">ali</option>
+</select>
+<img src="./001.jpg" alt="pic">
+<table>
+	<tr>
+		<td>
+			<th>
+				name
+			</th>
+		</td>
+	</tr>
+</table>
+<a href="www.google.com">google</a>
+<h1>m.kazemiraz</h1>
+</body>
